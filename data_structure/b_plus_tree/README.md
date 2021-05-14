@@ -3,10 +3,10 @@ Diminui a quantidade de prints ao maximo evitando mostrar os valores das paginas
 Na arvore mostro apenas a criação de novas raizes (desconsiderando a raiz inicial) durante a criação.
 Na hash mostro apenas a profundidade global durante a criação.
 A execussão pode ser feita diretamente pelo terminal utilizando os parametros. 
- 
+
 
 Para BMais.py podemos fazer.
-
+'''
 usage: BMais [-h] [-tp TAMPAGINA] [-f FILENAME]
 
 optional arguments:
@@ -16,7 +16,7 @@ optional arguments:
   -f FILENAME, --filename FILENAME
                         Input filename (default: D_a2_i20000.csv)
 
-
+'''
 Para Hash_extensivel.py podemos fazer.
 
 usage: HashEX [-h] [-tp TAMPAGINA] [-f FILENAME]
