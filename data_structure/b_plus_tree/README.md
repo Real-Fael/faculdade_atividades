@@ -1,3 +1,4 @@
+# Árvore B+
 O objetivo da atividade, era implementar uma estrutura de Árvore B+, capaz de inserir, buscar e remover elementos que possuem uma quantidade variável de campos, composto por uma chave e N atributos, é importante ressaltar que cada página da árvore possui um valor fixo em Bytes, então a quantidade de atributos, seus tipos, e valores atribuídos a cada campo impactam na quantidade de elementos que pode ser inserido em cada uma das páginas criadas.
 Neste arquivo temos os arquivos de exemplo que utilizei para os testes no formato .csv onde o próprio nome do arquivo diz quantos campos ele possui e quantas inserções.
 
