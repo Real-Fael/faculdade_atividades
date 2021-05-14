@@ -1,0 +1,5 @@
+O Objetivo deste trabalho é fazer a implementação do algoritmo de ordenação Bubble Sort 
+onde a ideia é empurrar o maior valor para o final da lista até que ela fique ordenada.
+
+o arquivo zip contem 2 arquivos um .cpp arquivo feito na linguagem c++ e um arquivo .hs
+ feito na linguagem Haskell

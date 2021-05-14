@@ -1,0 +1,10 @@
+O Objetivo deste trabalho é fazer a implementação do algoritmo de ordenação Bubble Sort 
+a ideia é empurrar o maior valor para o final da lista até que ela fique ordenada.
+
+o arquivo zip contem 2 arquivos um .cpp arquivo feito na linguagem c++ e um arquivo .pl feito na 
+linguagem prolog, durante a construção do exercicio foi utilizado o site https://swish.swi-prolog.org/
+como indicado pelo professor portanto não fiz testes no terminal, para execução do algoritmo bubble devemos digitar
+
+?- bubblesort([vetordesordenado],Variavel). 
+
+então o vetor ordenado estará na Variavel.
