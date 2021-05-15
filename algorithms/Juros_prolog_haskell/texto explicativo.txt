@@ -1,0 +1,17 @@
+O objetivo do algoritmo é, calcular juros compostos ou uma taxa de crescimento, 
+dado um valor inicial, uma taxa de crescimento e quantidade de vezes que será aplicado o juros sobre o valor,
+ele calculará e retornará o resultado
+
+em C++ para alterarmos os valores devemos alterar diretamente em nosso codigo por exemplo.
+valor_inicial=4000; // o valor inicial começa em 4000
+taxa=10; // a taxa de crescimento anual em 10% 
+tempo_anos=5; //e é contabilizada por 5 anos
+
+
+no algoritmo prolog devemos respeitar a seguinte estrutura para realizar o calculo:
+juros(Vinicial,Taxa,Tempo,Total) 
+
+Vinicial: é o valor inicial para o calculo.
+Taxa: é a taxa de crescimento dado em porcentagem por exemplo (5,3,10)%.
+Tempo: é a quantidade de vezes que sera efetuado o calculo.
+Total: é onde sera armazenado o resultado.
